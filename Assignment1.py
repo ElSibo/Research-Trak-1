@@ -128,11 +128,11 @@ def take_silver():
 			print("I found the silver oken.")
 			gr_dr = R.grab()
 			print("token was grabed ?   Answer: ",gr_dr)
-			turn(-15,8.8)
+			turn(-15,5.8)
 			
 			gr_dr=R.release()
 			print("token was dropped ?   Answer: ",gr_dr)
-			turn(-15,8.8)
+			turn(-15,5.8)
 			print("I am continue on my road")
 			
 			break
